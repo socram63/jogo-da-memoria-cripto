@@ -18,7 +18,8 @@ let game = {
     'steem',
     'stratis',
     'tether',
-    'waves'],
+    'waves',
+    'eos'],
 
     cards: null,
 
