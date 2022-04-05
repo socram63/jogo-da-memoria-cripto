@@ -89,17 +89,17 @@ img{
         background-size: cover; 
     }
     .card {
-        width: 65px;
-        height: 65px;
+        width: 63px;
+        height: 63px;
     }
     img{
-        width: 65px;
+        width: 63px;
         
     }
     #gameBoard {
         max-width: 400px;
         grid-template: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr /1fr 1fr 1fr 1fr;
-        gap: 6.5px;
+        gap: 5px;
         top: 50px;
     }
     #gameOver {
