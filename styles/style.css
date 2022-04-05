@@ -56,7 +56,7 @@ img{
     position:absolute;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.8);
     color: white;
     font-size: 50px;
     display: none;
@@ -104,6 +104,7 @@ img{
     }
     #gameOver {
         text-align: center;
+        font-size: 35px;
     }
 
 }
