@@ -86,23 +86,20 @@ img{
 
 @media (max-width:800px) {
     body{
-        background-size: cover;
-      
-        
-        
+        background-size: cover; 
     }
     .card {
-        width: 70px;
-        height: 70px;
+        width: 65px;
+        height: 65px;
     }
     img{
-        width: 70px;
+        width: 65px;
         
     }
     #gameBoard {
         max-width: 400px;
         grid-template: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr /1fr 1fr 1fr 1fr;
-        gap: 10px;
+        gap: 6.5px;
         top: 50px;
     }
     #gameOver {
